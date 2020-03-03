@@ -1,2 +1,2 @@
 Este es un mensaje de prueba para el curso de git y github profesional
-Es muy bueno aprender a usar git.
+Git es una herramienta muy potente.
