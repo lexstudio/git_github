@@ -1,1 +1,1 @@
-Este es un mensaje de prueba para el curso de git y github
+Este es un mensaje de prueba para el curso de git y github profesional
